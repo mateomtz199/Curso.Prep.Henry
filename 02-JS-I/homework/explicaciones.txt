@@ -1,0 +1,5 @@
+Variables: 
+Strings:
+Funciones (argumentos, strings):
+Declaraciones if:
+Valores booleanos (true, false):
